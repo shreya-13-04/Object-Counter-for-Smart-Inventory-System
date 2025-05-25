@@ -39,8 +39,9 @@ An embedded system project built to automate inventory tracking using an object-
 ## 🔌 Working Principle
 
 1. **Object Detection**: Two photoresistors (LDRs) detect objects as they interrupt a light source.
-2. **Counting Logic**: The hardware circuit is designed to trigger segment changes on object detection using voltage fluctuations caused by light obstruction.
-3. **Display**: The count is reflected instantly on a 7-segment display.
+2. **Counting Logic**:  The hardware circuit is designed to trigger segment changes on object detection using voltage fluctuations caused by light obstruction.
+3. **Sliding Mechanism**: When stimulated, the photoresistor is slid once—this slide corresponds to a single object passing. Each distinct slide is considered one object and results in a count increment.
+4. **Display**: The count is reflected instantly on a 7-segment display.
 
 ---
 
