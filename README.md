@@ -46,7 +46,7 @@ An embedded system project built to automate inventory tracking using an object-
 
 ## 📷 Demo
 
-![Smart Inventory Object Counter](ObjectCounter.png)
+![Smart Inventory Object Counter](/Images/ObjectCounter.png)
 
 > Tinkercad schematic and simulation visuals are included for reference.
 
